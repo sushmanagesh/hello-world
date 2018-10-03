@@ -1,3 +1,4 @@
 # hello-world
 a repository
-hello hello hello
+hello all
+welcome to hacktoberfest
